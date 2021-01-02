@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": 30,
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 2,
+      "name": "Fries",
+      "price": 20,
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Cola",
+      "price": 10,
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "Water",
+      "price": "55",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 6,
+      "name": "7UP",
+      "price": "44",
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
